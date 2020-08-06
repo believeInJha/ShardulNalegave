@@ -1,7 +1,11 @@
 
 ## Hey 👋🏽, I'm [Shardul](https://shardul.netlify.com)!
-<img align="right" src="https://media.giphy.com/media/Xzq321KSESHt833MYj/giphy.gif" alt="GIF">
+
+<img align="right" src="https://media.giphy.com/media/Xzq321KSESHt833MYj/giphy.gif" width="150px" alt="GIF">
+
 I am Shardul Nalegave from India. I am 15 years old and Programming is my passion. Besides programming I love eating and listening to songs.
+
+<br>
 
 ````typescript
 
@@ -22,6 +26,10 @@ const aboutme = {
       "Machine Learning and Algorithms",
       "OpenGL"
     ],
+  },
+  goals: {
+    shortTerm: ["Get good marks", "Contribute to Open-Source!"],
+    longTerm: ["Create a Startup!"],
   },
 }
 
