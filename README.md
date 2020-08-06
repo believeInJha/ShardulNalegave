@@ -1,9 +1,7 @@
 
 ## Hey 👋🏽, I'm [Shardul](https://shardul.netlify.com)!
-
-<img align="right" src="https://media.giphy.com/media/Xzq321KSESHt833MYj/giphy.gif" width="150px" alt="GIF">
-
 I am Shardul Nalegave from India. I am 15 years old and Programming is my passion. Besides programming I love eating and listening to songs.
+![](https://visitor-badge.glitch.me/badge?page_id=ShardulNalegave.ShardulNalegave)
 
 <br>
 
@@ -20,7 +18,20 @@ const aboutme = {
     css: ["Vuetify", "Bootstrap"],
     backend: ["Express", "Flask", "Rocket.rs"],
     databases: ["MongoDB", "Firebase Firestore"],
-    misc: ["Firebase", "Socket.io", "Processing", "p5.js", "Building protocols on top of TCP"],
+    misc: ["Firebase", "Socket.io", "Electron", "Processing", "p5.js", "Building protocols on top of TCP"],
+    languages: [
+      "Python",
+      "JavaScript",
+      "TypeScript",
+      "Dart",
+      "Rust",
+      "Kotlin",
+      "Java",
+
+      // If you want to consider them
+      "HTML",
+      "CSS"
+    ],
     currentlyLearning: [
       "On my way to become a Rustacean!",
       "Machine Learning and Algorithms",
@@ -34,6 +45,8 @@ const aboutme = {
 }
 
 ````
+
+<img align="right" src="https://media.giphy.com/media/Xzq321KSESHt833MYj/giphy.gif" width="250px" alt="GIF">
 
 ![Shardul Nalegave's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShardulNalegave&show_icons=true&theme=dracula&count_private=true&hide=prs)
 
