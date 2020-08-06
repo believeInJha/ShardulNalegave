@@ -1,8 +1,7 @@
 
 ## Hey 👋🏽, I'm [Shardul](https://shardul.netlify.com)!
-I am Shardul Nalegave from India. I am 15 years old and Programming is my passion. Besides programming I love eating and listening to songs.
-
 <img align="right" src="https://media.giphy.com/media/Xzq321KSESHt833MYj/giphy.gif" alt="GIF">
+I am Shardul Nalegave from India. I am 15 years old and Programming is my passion. Besides programming I love eating and listening to songs.
 
 ````typescript
 
